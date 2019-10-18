@@ -1,0 +1,5 @@
+F:\ider1701\ad\ad-service\ad-common\src\main\java\com\itcanteen\common\vo\CommonResponse.java
+F:\ider1701\ad\ad-service\ad-common\src\main\java\com\itcanteen\common\annotation\IgnoreResponseAdvice.java
+F:\ider1701\ad\ad-service\ad-common\src\main\java\com\itcanteen\common\advice\CommonResponseDataAdvice.java
+F:\ider1701\ad\ad-service\ad-common\src\main\java\com\itcanteen\common\exception\AdException.java
+F:\ider1701\ad\ad-service\ad-common\src\main\java\com\itcanteen\common\advice\GlobalExceptionAdvice.java
